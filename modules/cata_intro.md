@@ -15,7 +15,7 @@
 ### Tutorials
 
 Complete the following tutorials before class:
-- [Tutorial 3: Regular Expressions](../tutorials/regex_email.ipynb)
+- [Tutorial 3: Regular Expressions](../tutorials/email_regex.ipynb)
 - [Tutorial 4: Text Preprocessing and Dictionary-based Analysis](../tutorials/text_prep_and_dict.ipynb)
 
 
