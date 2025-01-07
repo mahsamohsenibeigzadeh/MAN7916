@@ -19,3 +19,6 @@ dmypy.json
 assignments/solutions/
 local_data/*
 !local_data/README.md
+
+**/.DS_STORE
+**/.DS_STORE?
