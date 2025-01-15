@@ -1,2 +1,0 @@
-Correlation between Publication Year and Citation Count: -0.22741134591803017
-ANOVA results: F-statistic = 4.968363509479316, p-value = 0.010256422580908316
