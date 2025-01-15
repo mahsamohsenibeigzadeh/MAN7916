@@ -1,0 +1,12 @@
+beautifulsoup4
+curl-cffi
+html5lib
+ipykernel
+nltk
+nodriver
+openai
+pandas
+pingouin
+python-dotenv
+requests
+spacy
